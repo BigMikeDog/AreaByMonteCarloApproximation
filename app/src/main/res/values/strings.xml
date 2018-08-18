@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Area By Monte Carlo Approximation</string>
+    <string name="equation_choice_question">Which equation would you like to approximate the area under the curve for?</string>
+    <string name="parabola_equation">The X Squared 2nd Degree Polynomial</string>
+    <string name="standard_normal_equation">The Standard Normal Curve</string>
+    <string name="x_bounds_question">Please select the lower and upper X bound you would like to use for your approximation.</string>
+    <string name="x_lower_bound">Lower X bound: </string>
+    <string name="x_lower_bound_hint">Enter lower X bound here.</string>
+    <string name="x_upper_bound">Upper X bound: </string>
+    <string name="x_upper_bound_hint">Enter upper X bound here.</string>
+    <string name="y_bounds_question">Please select the lower and upper Y bound you would like to use for your approximation.</string>
+    <string name="y_lower_bound">Lower Y bound: </string>
+    <string name="y_lower_bound_hint">Enter lower Y bound here.</string>
+    <string name="y_upper_bound">Upper Y bound: </string>
+    <string name="y_upper_bound_hint">Enter upper Y bound here.</string>
+    <string name="num_points_question">How many points would you like to sample?</string>
+    <string name="points_to_sample">Points to be sampled: </string>
+    <string name="points_to_sample_hint">Enter number of points here.</string>
+    <string name="button_approximate_area">Approximate Area</string>
+    <string name="answer_text">The area is approximately %1$s units squared.</string>
+</resources>
